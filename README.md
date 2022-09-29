@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dominiclinton@gmail.com**
 
-- 📄 My linkedin is available here [https://www.linkedin.com/in/d-f-l-linton/](https://www.linkedin.com/in/d-f-l-linton/)
+- 📄 My linkedin is available <a>here</a> [https://www.linkedin.com/in/d-f-l-linton/](https://www.linkedin.com/in/d-f-l-linton/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
