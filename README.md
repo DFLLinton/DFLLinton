@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DFLLinton](https://github.com/DFLLinton)
+- 👨‍💻 All of my projects are available <a href="(https://github.com/DFLLinton)">here</a>
 
 - 📫 How to reach me **dominiclinton@gmail.com**
 
