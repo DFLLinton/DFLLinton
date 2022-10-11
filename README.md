@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/DFLLinton">here</a>
 
-- 📫 How to reach me **dominiclinton@gmail.com**
-
 - 📄 My linkedin is available <a href="https://www.linkedin.com/in/d-f-l-linton/">here</a>
 
 <h3 align="left">Languages and Tools:</h3>
