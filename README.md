@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 <h3 align="center">A software developer from London</h3>
 
-- 🔭 I’m currently working on **the Founders & Coders Skills Bootcamp** and some **web development jobs**
+- 🔭 I’m currently working on **the Founders & Coders Skills Bootcamp** and some **web development comissions**
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
