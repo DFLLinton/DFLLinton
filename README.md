@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/DFLLinton">here</a>
+- 👨‍💻 Some of my favourite projects are available <a href="https://github.com/DFLLinton">here</a> and <a href="https://github.com/DFLLinton">here</a>
 
 - 📄 My linkedin is available <a href="https://www.linkedin.com/in/d-f-l-linton/">here</a>
 
