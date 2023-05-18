@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 <h3 align="center">A software developer from London</h3>
 
-- 🔭 I’m currently working on **the Founders & Coders Skills Bootcamp** and some **web development comissions**
+- 🔭 I have completed **the Founders & Coders Skills Bootcamp** and am working on some **web development comissions**
 
-- 🌱 I’m currently learning **HTML, CSS & Javascript**
+- 🌱 I’m currently working with **HTML, CSS & Javascript**
 
-- 👨‍💻 Some of my favourite projects are available <a href="https://github.com/DFLLinton">here</a> and <a href="https://github.com/DFLLinton">here</a>
+- 👨‍💻 Some of my favourite projects are available <a href="https://dfllinton.github.io/Blank-Spell-Card-Mechanism/">here</a> and <a href="https://dfllinton.github.io/Product-Guide/">here</a>
 
 - 📄 My linkedin is available <a href="https://www.linkedin.com/in/d-f-l-linton/">here</a>
 
