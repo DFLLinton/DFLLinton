@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **HTML, CSS & Javascript**
 
-- 🎲 One of my favourite projects is a <a href="https://dfllinton.github.io/Blank-Spell-Card-Mechanism/">tool</a> to simulate spell casting within a board game. It takes the player's name and the spell cast, calculates the success likelihood, rolls a few proverbial dices and outputs the result.
+- 🎲 One of my favourite projects is a <a href="https://dfllinton.github.io/Blank-Spell-Card-Mechanism/">tool</a> to simulate spell casting within a board game. It takes the player's name and the spell's name, calculates the success likelihood, rolls a few proverbial dices and outputs the result.
  - 📖 Another of my favourites is a <a href="https://dfllinton.github.io/Product-Guide/">product guide</a> I created for a small business which includes lots of quirky CSS features such as custom cursors etc.
 
 - 📄 My linkedin is available <a href="https://www.linkedin.com/in/d-f-l-linton/">here</a>
